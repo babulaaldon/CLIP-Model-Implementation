@@ -28,7 +28,7 @@ A simple image search system using the CLIP (Contrastive Language-Image Pre-trai
 1. Update the `image_path` variable in the script to point to your image file.
 2. Run the script:
     ```bash
-    python main.py
+    python img_sea.py
     ```
 
 ## Code Structure
